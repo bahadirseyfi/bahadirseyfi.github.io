@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    border: 4px groove gray;
+}
+
+p{
+    border: 3px dotted purple;
+    width: 200px ;
+    margin: 0 auto;
+}
+
+a{
+    font-weight: 200;
+}
