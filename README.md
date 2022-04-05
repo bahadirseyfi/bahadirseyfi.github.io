@@ -1,6 +1,7 @@
-# HTML-CSS-CV
-CV-Using-HTML-CSS
+# Bahadır Seyfi - Web Programming 
 
-This is a non-responsive CV, made using HTML and CSS only. (Just a practice)
+- Marmara University Computer Engineering
 
-Demo: https://ovi.github.io/HTML-CSS-CV/
+## This is a non-responsive CV, made using HTML and CSS only.
+
+
